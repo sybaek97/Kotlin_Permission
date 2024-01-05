@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Kotlin_Permission" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#4F7BD3</item>
+    </style>
+
+    <style name="Theme.Kotlin_Permission" parent="Base.Theme.Kotlin_Permission" />
+</resources>
